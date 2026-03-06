@@ -10,11 +10,11 @@
 
 ## 📸 Screenshots
 
-![Overview](app_pic1.png)
+![Overview](app.pic1.png)
 
-![By Category](app_pic2.png)
+![By Category](app.pic2.png)
 
-![Headlines Table](app_pic3.png)
+![Headlines Table](app.pic3.png)
 
 ---
 
